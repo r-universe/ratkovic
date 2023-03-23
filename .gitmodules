@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SparseFactorAnalysis"]
+	path = SparseFactorAnalysis
+	url = https://github.com/cran/SparseFactorAnalysis
+	shallow = true
+	registered = true
+[submodule "sparsereg"]
+	path = sparsereg
+	url = https://github.com/cran/sparsereg
+	shallow = true
+	registered = true
