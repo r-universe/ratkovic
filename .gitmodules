@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MDEI"]
 	path = MDEI
 	url = https://github.com/ratkovic/mdei
-	shallow = true
-	registered = true
 [submodule "SparseFactorAnalysis"]
 	path = SparseFactorAnalysis
 	url = https://github.com/ratkovic/sparsefactoranalysis
-	shallow = true
-	registered = true
 [submodule "sparsereg"]
 	path = sparsereg
 	url = https://github.com/cran/sparsereg
-	shallow = true
-	registered = true
